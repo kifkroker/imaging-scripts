@@ -1,0 +1,8 @@
+# Ignore the startup task since it is different on every image
+startup_task.cmd
+
+# Ignore executables
+*.COM
+*.EXE
+*.DLL
+

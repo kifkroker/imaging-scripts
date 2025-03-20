@@ -1,0 +1,1 @@
+C:\Sysutils\WallpaperChanger  -r
